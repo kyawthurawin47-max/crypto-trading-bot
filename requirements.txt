@@ -2,4 +2,4 @@ streamlit
 pandas
 python-binance
 requests
-https://github.com/twopirllc/pandas-ta/archive/master.zip
+https://github.com/twopirllc/pandas-ta/archive/main.zip
